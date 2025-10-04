@@ -1,4 +1,4 @@
-# study-game-server-csharp
+# study_game_server_csharp
 
 [Studying "Game-Server-csharp" by Inf-Learn](https://inf.run/MwaK)
 
